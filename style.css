@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lucida Sans';
+    background-color: #92B4A7;
+    color: white;
+}
+
+button{
+    background: #4C6B5F;
+    color: white;
+    border-radius: 15px;
+    border: 0px;
+}
